@@ -7,8 +7,8 @@ Pembuatan Game ini terinspirasi dari Mobile Game populer Flappy Bird
 ### Game Over setelah bird menabrak pipa
 ![screenshot 63](https://cloud.githubusercontent.com/assets/22047581/26526936/c073a1f4-43b3-11e7-80e9-646836cc7916.png)
 
-##Nama: Selina Kusmiawati
-##Kelas: XI RPL 3
-##No Absen: 32
-##SMK TELKOM MALANG
+## Nama: Selina Kusmiawati
+## Kelas: XI RPL 3
+## No Absen: 32
+## SMK TELKOM MALANG
 
