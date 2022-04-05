@@ -9,6 +9,5 @@ Pembuatan Game ini terinspirasi dari Mobile Game populer Flappy Bird
 
 ## Nama: Selina Kusmiawati
 ## Kelas: XI RPL 3
-## No Absen: 32
-## SMK TELKOM MALANG
+
 
